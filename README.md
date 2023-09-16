@@ -1,2 +1,2 @@
 # C-and-Cplus
-Very basic C &amp; C++ projects
+Very basic C &amp; C++ scripts
